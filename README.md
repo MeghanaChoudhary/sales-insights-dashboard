@@ -1,28 +1,69 @@
-# 📊 Sales Insights Dashboard
+# 📊 Sales, Profit & Performance Insights Dashboard  
 
-This repository contains the **Sales Insights project**, built using Power BI for interactive analytics and exported as a PDF for quick reference.
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=power-bi)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Data](https://img.shields.io/badge/Data%20Source-Sample%20Sales%20Data-blue)
 
-## 🔹 Files
-- **sales-insights.pbix** → Power BI project file. Open in Power BI Desktop for full interactivity.
-- **sales-insights.pdf** → Exported report version for easy viewing.
-
-## 🔹 Key Features
-- 📈 Revenue Trends – year-wise and month-wise sales analysis
-- 🌍 Geographic Insights – sales performance by region and city
-- 🛍️ Product Performance – top-selling products and categories
-- 👥 Customer Insights – key customer contribution
-- 📊 Dynamic Filters – interactive slicers for drill-down
-
-## 🔹 Tools & Technologies
-- Power BI Desktop
-- Power Query (ETL)
-- DAX (Data Analysis Expressions)
-
-## 🔹 How to Use
-1. Download `sales-insights.pbix`.
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Use slicers, filters, and visuals to explore insights.
-4. For a quick static overview, open `sales-insights.pdf`.
+This repository contains **interactive dashboards** built using Power BI for analyzing **Sales, Profit, and Performance** across different markets, products, and customers.  
 
 ---
-✨ This project showcases **Business Intelligence & Data Analytics skills** using Power BI.
+
+## 🔹 Files
+- `sales-insights.pbix` → Power BI project file (interactive dashboards)  
+- `sales-insights.pdf` → Exported Sales dashboard report  
+- `profit-performance-insights.pbix` → Profit & Performance dashboard (interactive)  
+- `profit-performance-insights.pdf` → Exported Profit & Performance report  
+
+---
+
+## 🔹 Dashboards  
+
+### 1. Sales Insights  
+- 📈 **Revenue Trends** – Year-wise & month-wise analysis  
+- 🌍 **Geographic Insights** – Region & city performance  
+- 🛍️ **Product Insights** – Top-selling categories  
+- 👥 **Customer Insights** – Key customer contribution  
+
+### 2. Profit Analysis  
+- 💰 **Profit Contribution % by Market**  
+- 📍 **Revenue vs Profit Analysis by Region**  
+- 📊 **Top Customers by Profit Margin**  
+- ⚡ **Market-wise Profitability Comparison**  
+
+### 3. Performance Insights  
+- 📌 **Revenue Contribution by Regions**  
+- 📊 **Customer-wise Profit Margin Analysis**  
+- 📉 **Revenue & Profit Margin Trends**  
+- 🏆 **Top & Bottom Performing Markets**  
+
+---
+
+## 🔹 Tools & Technologies  
+- **Power BI Desktop**  
+- **Power Query (ETL)**  
+- **DAX (Data Analysis Expressions)**  
+
+---
+
+## 🔹 How to Use  
+1. Clone or download this repository.  
+2. Open `.pbix` files with **Power BI Desktop** for full interactivity.  
+3. Use slicers & filters to drill down into insights.  
+4. For a quick static view → open `.pdf` files.  
+
+---
+
+## 📷 Dashboard Previews  
+
+### Sales Insights  
+![Sales Dashboard](images/sales_dashboard.png)  
+
+### Profit Analysis  
+![Profit Dashboard](images/profit_dashboard.png)  
+
+### Performance Insights  
+![Performance Dashboard](images/performance_dashboard.png)  
+
+---
+
+✨ This project demonstrates **Business Intelligence & Data Analytics** skills with Power BI, focusing on **Sales, Profit & Performance optimization**.  
