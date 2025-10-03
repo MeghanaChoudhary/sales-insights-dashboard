@@ -56,10 +56,10 @@ This repository contains **interactive dashboards** built using Power BI for ana
 ## 📷 Dashboard Previews  
 
 ### Sales Insights  
-![Sales Dashboard](images/sales_dashboard.png)  
+![Sales Dashboard](salesInsights.png)  
 
 ### Profit Analysis  
-![Profit Dashboard](images/profit_dashboard.png)  
+![Profit Dashboard](profitAnalysis.png)  
 
 ### Performance Insights  
 ![Performance Dashboard](performanceInsights.png)  
